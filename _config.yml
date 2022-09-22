@@ -7,9 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   Contact(s) and Credential(s)
   <br>
-  <a href="https://github.com/H0LL0W3D">GitHub</a>
-  <a href = "mailto: jacob3.olson@umontana.edu">Student Email</a>
-  <a href="./images/Resume.pdf" download="JacobOlson">Resume</a>
+  <a href = "mailto: jacob3.olson@umontana.edu">Student Email</a><br>
+  <a href="./images/Resume.pdf" download="JacobOlson">Resume</a><br>
+  <a href="./images/TestOutCertificate.pdf" download="TestOutCertification">TestOut Certificate</a><br>
+  
   <br>
   
 theme: jekyll-theme-minimal

@@ -23,13 +23,13 @@
 
 
 [Github: Pages](http://github.com/H0LL0W3D/pages)
-<img src="images/pages.png?raw=true"/>
+<img src="images/pages.png?raw=true" target="_blank"/>
 
 [GitHub: Percolation](http://github.com/H0LL0W3D/Percolation)
-<img src="images/Percolation.png?raw=true"/>
+<img src="images/Percolation.png?raw=true" target="_blank"/>
 
 [Stardew Valley: Crop Optimization](/sample_page)
-<img src="images/StardewLogo.png?raw=true"/>
+<img src="images/StardewLogo.png?raw=true" target="_blank"/>
 
 ### Category Name 2
 

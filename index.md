@@ -63,10 +63,6 @@ skills and tools I have to my disposal.<br>
 - Sublime Text
 - Visual Studio Code
 
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

@@ -4,14 +4,14 @@
 
 ### Introduction 
 
-[Welcome]
+[Welcome]<br>
 Hello! Welcome to my E-portfolio.<br>
 This site will go over briefly details about myself, who I am, 
 some of my work experience, and some of my personal achievements.
 Then it will briefly list my currently developing projects. Finally, it will conclude with a set of
 skills and tools I have to my disposal.<br>
 
-[Who am I]
+[Who am I]<br>
  My name is Jacob, but I am sometimes referred to by Brandon. I am a student of University of Montana,
  studying Algorithmic Design, philosophy, and ethics. 
  I was born in 1999, me and my family moved to Missoula in ~2008.
@@ -33,6 +33,7 @@ skills and tools I have to my disposal.<br>
 -  Top 03 University of Montana students named "Jacob D. Olson"
 -  Top 02 University of Montana students named "Jacob D. Olson" studying Computer Science
 
+---
 
 ### Current Projects
 
@@ -47,6 +48,7 @@ skills and tools I have to my disposal.<br>
 <img src="images/StardewLogo.png?raw=true"/>
 
 
+---
 
 ### Skills
 [Comprehension]

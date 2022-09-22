@@ -2,10 +2,11 @@
 
 ---
 
-### Welcome 
+### Introduction 
 
+[Welcome]
 Hello! Welcome to my E-portfolio. I am a student of University of Montana, and I am studying Algorithmic Design, philosophy, and ethics.<br><br>
-This site lists a brief discription of myself, various contacts and credentials, and projects or assignments under development.
+This site lists a brief discription of myself, various contacts and credentials, and projects or assignments under development. This page serves as introductary to these elements.
 
 
 

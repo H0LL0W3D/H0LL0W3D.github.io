@@ -17,7 +17,7 @@ skills and tools I have to my disposal.<br>
  I was born in 1999, me and my family moved to Missoula in ~2008.<br>
  I became a student at Missoula College in 2018, and a student at University of Montana in 2021.
 
-[Work History]
+[Work Experience]
 - University of Montana: programming tutor
 - University of Montana: site moderator
 - University of Montana: database intern

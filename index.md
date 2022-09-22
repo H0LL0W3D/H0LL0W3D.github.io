@@ -12,27 +12,37 @@ This site lists a brief discription of myself, various contacts and credentials,
 ### Current Projects
 
 
-[Github: Pages](http://github.com/H0LL0W3D/pages target="_blank")
+[Github: Pages](http://github.com/H0LL0W3D/pages)
 <img src="images/pages.png?raw=true"/>
 
-[GitHub: Percolation](http://github.com/H0LL0W3D/Percolation target="_blank")
+[GitHub: Percolation](http://github.com/H0LL0W3D/Percolation)
 <img src="images/Percolation.png?raw=true"/>
 
 [Stardew Valley: Crop Optimization]
 <img src="images/StardewLogo.png?raw=true"/>
 
 
-### Resume
-<img src="images/Resume.png?raw=true"/>
 
+### Skills
+[Comprehension]
+- C++
+- Python
+- Java
+- SQL
+- ASL
 
-### Category Name 2
+[Tools]
+- XCode
+- Microsoft Excel
+- Microsoft Word
+- Sublime Text
+- Visual Studio Code
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Work History]
+- University of Montana: programming tutor
+- University of Montana: site moderator
+- University of Montana: database intern
+- University of Montana: computer camp counselor
 
 ---
 

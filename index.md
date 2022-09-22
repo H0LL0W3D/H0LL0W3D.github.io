@@ -13,10 +13,9 @@ skills and tools I have to my disposal.<br>
 
 [Who am I]<br>
  My name is Jacob, but I am sometimes referred to by Brandon. I am a student of University of Montana,
- studying Algorithmic Design, philosophy, and ethics. 
- I was born in 1999, me and my family moved to Missoula in ~2008.
- I became a student at Missoula College in 2018, and a student at
- University of Montana in 2021.
+ studying Algorithmic Design, philosophy, and ethics. <br>
+ I was born in 1999, me and my family moved to Missoula in ~2008.<br>
+ I became a student at Missoula College in 2018, and a student at University of Montana in 2021.
 
 [Work History]
 - University of Montana: programming tutor

@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Welcome 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -16,6 +16,20 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+
+
+### Current Projects
+
+
+[Github: Pages](http://github.com/H0LL0W3D/pages)
+<img src="images/pages.png?raw=true"/>
+
+[GitHub: Percolation](http://github.com/H0LL0W3D/Percolation)
+<img src="images/Percolation.png?raw=true"/>
+
+[Stardew Valley: Crop Optimization](/sample_page)
+<img src="images/StardewLogo.png?raw=true"/>
 
 ### Category Name 2
 

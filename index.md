@@ -5,9 +5,33 @@
 ### Introduction 
 
 [Welcome]
-Hello! Welcome to my E-portfolio. I am a student of University of Montana, and I am studying Algorithmic Design, philosophy, and ethics.<br><br>
-This site lists a brief discription of myself, various contacts and credentials, and projects or assignments under development. This page serves as introductary to these elements.
+Hello! Welcome to my E-portfolio.<br>
+This site will go over briefly details about myself, who I am, 
+some of my work experience, and some of my personal achievements.
+Then it will briefly list my currently developing projects. Finally, it will conclude with a set of
+skills and tools I have to my disposal.<br>
 
+[Who am I]
+ My name is Jacob, but I am sometimes referred to by Brandon. I am a student of University of Montana,
+ studying Algorithmic Design, philosophy, and ethics. 
+ I was born in 1999, me and my family moved to Missoula in ~2008.
+ I became a student at Missoula College in 2018, and a student at
+ University of Montana in 2021.
+
+[Work History]
+- University of Montana: programming tutor
+- University of Montana: site moderator
+- University of Montana: database intern
+- University of Montana: computer camp counselor
+
+
+[Personal Accomplishments]
+-  Top 10 Montana "Smash Brothers: Melee" public ranking (2019-2022)
+-  Top 500 America "Diablo 3" seasonal rift ranking (2020)
+-  Top 10 Global "Angry Angry Templar" ranking (2018)
+-  Top 09 parents' children ╰( ͡° ͜ʖ ͡° )つ──☆*:・
+-  Top 03 University of Montana students named "Jacob D. Olson"
+-  Top 02 University of Montana students named "Jacob D. Olson" studying Computer Science
 
 
 ### Current Projects
@@ -38,12 +62,6 @@ This site lists a brief discription of myself, various contacts and credentials,
 - Microsoft Word
 - Sublime Text
 - Visual Studio Code
-
-[Work History]
-- University of Montana: programming tutor
-- University of Montana: site moderator
-- University of Montana: database intern
-- University of Montana: computer camp counselor
 
 ---
 

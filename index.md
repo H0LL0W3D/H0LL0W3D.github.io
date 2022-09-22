@@ -4,32 +4,27 @@
 
 ### Welcome 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+Hello! Welcome to my E-portfolio. I am a student of University of Montana, and I am studying Algorithmic Design, philosophy, and ethics.<br><br>
+This site lists a brief discription of myself, various contacts and credentials, and projects or assignments under development.
 
 
 
 ### Current Projects
 
 
-[Github: Pages](http://github.com/H0LL0W3D/pages)
-<img src="images/pages.png?raw=true" target="_blank"/>
+[Github: Pages](http://github.com/H0LL0W3D/pages target="_blank")
+<img src="images/pages.png?raw=true"/>
 
-[GitHub: Percolation](http://github.com/H0LL0W3D/Percolation)
-<img src="images/Percolation.png?raw=true" target="_blank"/>
+[GitHub: Percolation](http://github.com/H0LL0W3D/Percolation target="_blank")
+<img src="images/Percolation.png?raw=true"/>
 
-[Stardew Valley: Crop Optimization](/sample_page)
-<img src="images/StardewLogo.png?raw=true" target="_blank"/>
+[Stardew Valley: Crop Optimization]
+<img src="images/StardewLogo.png?raw=true"/>
+
+
+### Resume
+<img src="images/Resume.png?raw=true"/>
+
 
 ### Category Name 2
 

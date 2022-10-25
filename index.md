@@ -49,6 +49,9 @@ skills and tools I have to my disposal.<br>
 [Basic Blog Web Application](https://github.com/H0LL0W3D/BlogApp)
 <img src="images/Desktop.jpg?raw=true"/>
 
+[Basic News Application](https://github.com/H0LL0W3D/NewspaperApp)
+<img src="images/Desktop.jpg?raw=true"/>
+
 ---
 
 ### Skills

@@ -30,7 +30,6 @@ skills and tools I have to my disposal.<br>
 -  Top 10 Global "Angry Angry Templar" ranking (2018)
 -  Top 09 parents' children ╰( ͡° ͜ʖ ͡° )つ──☆*:・
 -  Top 03 University of Montana students named "Jacob D. Olson"
--  Top 02 University of Montana students named "Jacob D. Olson" studying Computer Science
 
 ---
 
@@ -42,6 +41,9 @@ skills and tools I have to my disposal.<br>
 
 [GitHub: Percolation](http://github.com/H0LL0W3D/Percolation)
 <img src="images/Percolation.png?raw=true"/>
+
+[Github: Taiga](https://github.com/H0LL0W3D/Taiga)
+<img src="images/babayaga.png?raw=true"/>
 
 [Stardew Valley: Crop Optimization]
 <img src="images/StardewLogo.png?raw=true"/>

@@ -22,10 +22,11 @@ skills and tools I have to my disposal.<br>
 - University of Montana: site moderator
 - University of Montana: database intern
 - University of Montana: computer camp counselor
+- University of Montana: Genome Assembly Researcher
 
 
 [Personal Accomplishments]
--  Top 10 Montana "Smash Brothers: Melee" public ranking (2019-2022)
+-  Top 10 Montana "Smash Brothers: Melee" public ranking (2019-2023)
 -  Top 500 America "Diablo 3" seasonal rift ranking (2020)
 -  Top 10 Global "Angry Angry Templar" ranking (2018)
 -  Top 09 parents' children ╰( ͡° ͜ʖ ͡° )つ──☆*:・
@@ -56,6 +57,9 @@ skills and tools I have to my disposal.<br>
 
 [Basic Message Board Application](https://github.com/H0LL0W3D/WebAppProject)
 <img src="images/Cuteness.png?raw=true"/>
+
+[Genomic Assembly]
+<img src="images/Genomics.jpg?raw=true"/>
 
 ---
 

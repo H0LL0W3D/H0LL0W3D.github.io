@@ -2,27 +2,25 @@
 
 ---
 
-### Introduction 
+### About Me
+My name is Jacob Olson. I am a graduate of the University of Montana. My studies concentrated on Computer Science, IT, and Philosophy, but my interest expands beyond to include physics, biology, astronomy, value theory, and epistemology. I gained significant experience in tutoring, analyzing, troubleshooting, and communicating. 
 
-[Welcome]<br>
-Hello! Welcome to my E-portfolio.<br>
-This site will go over briefly details about myself, who I am, 
-some of my work experience, and some of my personal achievements.
-Then it will briefly list my currently developing projects. Finally, it will conclude with a set of
-skills and tools I have to my disposal.<br>
 
-[Who am I]<br>
- My name is Jacob, but I am sometimes referred to by Brandon. I am a student of University of Montana,
- studying Algorithmic Design, philosophy, and considering a minor in ethics or math. <br>
- I was born in 1999, me and my family moved to Missoula in ~2008.<br>
- I became a student at Missoula College in 2018, and a student at University of Montana in 2021.
+### Work Experience
+#### &emsp; Metagenomic Assembly Researcher
+I assisted in the construction of a meta-genomic assembler designed for identification and monitoring of SARS-CoV-2 strains. I specialized on investigating modern implementations and practices of competitor metagenomic assemblers (MetaSPAdes, MegaHit, etc etc) for uses in our tool, as well as developing tools to measure performance runtime and effectiveness.
 
-[Work Experience]
-- University of Montana: programming tutor
-- University of Montana: site moderator
-- University of Montana: database intern
-- University of Montana: computer camp counselor
-- University of Montana: Genome Assembly Researcher
+#### &emsp; Programming Tutor
+Operated as the head tutor for the core programming courses across both University of Montana as well as Missoula College. While fostering a comfortable and openly communicative environment, I provided assistive learning with fundamental programming concepts, basic data structures, algorithms, and intuition on runtime analysis.
+
+#### &emsp; Computer Camp Counselor
+Assisted young teens in developing an understanding of technology, cybersecurity, and dev ops. These young agents were introduced to hardware tinkering, modular programming, CLI operating, cryptography, networking, and ethical implications of modern technology.
+
+#### &emsp; Website Moderator
+Updated website on University of Montana to inform and reflect information appropriately and accurately using Cascade.
+
+#### &emsp; Database Intern
+Worked under Global Engagement Office to foster community, education, and opportunity to students traveling abroad. Used Terra Dotta database to properly reflect these opportunities.
 
 
 [Personal Accomplishments]

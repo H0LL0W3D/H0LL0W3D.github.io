@@ -1,9 +1,13 @@
 header {
-  width: 300px;         /* wider sidebar */
-  background: #1e1e1e;  /* dark background */
-  color: white;
+  width: 200px;
+  /* sidebar width */
+  background: #1e1e1e;
+  /* dark background */
+  color: gray;
+  /* ??? */
 }
 
 section {
-  margin-left: 320px;   /* adjust content to match sidebar */
+  margin-left: 220px;
+  /* adjust content to match sidebar */
 }

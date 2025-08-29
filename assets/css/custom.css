@@ -1,0 +1,9 @@
+header {
+  width: 300px;         /* wider sidebar */
+  background: #1e1e1e;  /* dark background */
+  color: white;
+}
+
+section {
+  margin-left: 320px;   /* adjust content to match sidebar */
+}

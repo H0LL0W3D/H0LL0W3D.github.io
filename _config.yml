@@ -7,11 +7,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   Contact(s) and Credential(s):
   <br>
+  <a href = "mailto: yacabo@icloud.com">Personal Email</a><br>
   <a href = "mailto: jacob3.olson@umontana.edu">Student Email</a><br>
-  <a href="./images/Resume.pdf" download="JacobOlson">Resume</a><br>
+  <a href="./pdf/ResumeSS.pdf" download="Jacob_Olson_ResumeSS.pdf">Resume</a><br>
   <a href="./images/TestOutCertificate.pdf" download="TestOutCertification">TestOut Certificate</a><br>
   <a href="./images/TownsendAward.pdf" download="Townsend Science and Philosophy Award">Townsend Award</a><br>
   
   
-theme: jekyll-theme-minimal
+<!-- theme: jekyll-theme-minimal -->
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

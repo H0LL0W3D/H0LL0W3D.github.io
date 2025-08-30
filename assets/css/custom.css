@@ -37,7 +37,7 @@ header p {
   float: left;
   margin-right: 10px;
   margin-bottom: 5px;
-  max-width: 75%;
+  max-width: 65%;
   /* shrink responsively */
   height: auto;
   /* preserve aspect ratio */

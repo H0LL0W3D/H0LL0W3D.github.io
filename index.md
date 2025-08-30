@@ -11,7 +11,12 @@ I assisted in the construction of a meta-genomic assembler designed for identifi
 </p>
 
 #### &emsp; Programming Tutor
+<p>
+<div style="text-align: center">
+<img src="images/Missoula College.png?=raw=true" class="float-left" width="100%" height="auto">
+</div>
 Operated as the head tutor for the core programming courses across both University of Montana as well as Missoula College. While fostering a comfortable and openly communicative environment, I provided assistive learning with fundamental programming concepts, basic data structures, algorithms, and intuition on runtime analysis.
+</p>
 
 #### &emsp; Computer Camp Counselor
 Assisted young teens in developing an understanding of technology, cybersecurity, and dev ops. These young agents were introduced to hardware tinkering, modular programming, CLI operating, cryptography, networking, and ethical implications of modern technology.

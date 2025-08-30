@@ -23,34 +23,35 @@ header h1 {
   /* a little smaller title if you want */
 }
 
-/* Make the page background gray instead of white */
+/* Make the whole page a flex container */
 body {
+  display: flex;
+  margin: 0;
   background-color: #bababa;
-  /* adjust shade to taste */
+  /* page background */
   color: #222;
-  /* keep text readable */
 }
 
-/* Sidebar tweaks */
+/* Sidebar: 20% width */
 .sidebar {
-  width: 220px;
-  /* narrower sidebar */
+  flex: 0 0 20%;
+  /* fixed at 20% */
   background-color: #bababa;
-  /* lighter gray for contrast */
   padding: 15px;
-}
-
-/* Main content tweaks */
-.wrapper {
-  margin-left: 240px;
-  /* just a little wider than sidebar */
-  max-width: 900px;
-  /* make content area wider */
-  background-color: #bababa;
-  /* match sidebar gray */
-  padding: 20px;
   box-sizing: border-box;
 }
+
+/* Main content: 80% width */
+.wrapper {
+  flex: 1;
+  /* take remaining space (≈80%) */
+  background-color: #bababa;
+  padding: 20px;
+  box-sizing: border-box;
+  max-width: none;
+  /* allow it to stretch fully */
+}
+
 
 
 header p {

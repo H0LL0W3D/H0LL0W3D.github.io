@@ -13,7 +13,7 @@ I assisted in the construction of a meta-genomic assembler designed for identifi
 #### &emsp; Programming Tutor
 <p>
 <div style="text-align: center">
-<img src="images/Missoula College.png?=raw=true" class="float-left" width="100%" height="auto">
+<img src="images/Missoula College.png?=raw=true" class="float-left">
 </div>
 Operated as the head tutor for the core programming courses across both University of Montana as well as Missoula College. While fostering a comfortable and openly communicative environment, I provided assistive learning with fundamental programming concepts, basic data structures, algorithms, and intuition on runtime analysis.
 </p>
@@ -39,15 +39,17 @@ Worked under Global Engagement Office to foster community, education, and opport
 
 ### Current Projects
 
+[Github: Pages](http://github.com/H0LL0W3D/pages)<br>
+<img src="images/pages.png?raw=true">
 
-[Github: Pages](http://github.com/H0LL0W3D/pages)
-<img src="images/pages.png?raw=true"/>
 
 [GitHub: Percolation](http://github.com/H0LL0W3D/Percolation)
-<img src="images/Percolation.png?raw=true"/>
+<img src="images/Percolation.png?raw=true">
+
 
 [Github: Taiga](https://github.com/H0LL0W3D/Taiga)
-<img src="images/babayaga.png?raw=true"/>
+<img src="images/babayaga.png?raw=true">
+
 
 [Stardew Valley: Crop Optimization]
 <img src="images/StardewLogo.png?raw=true"/>
@@ -84,4 +86,5 @@ Worked under Global Engagement Office to foster community, education, and opport
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Last Updated 08/30/2025</p>
 <!-- Remove above link if you don't want to attibute -->

@@ -25,34 +25,21 @@ header h1 {
 
 /* Make the whole page a flex container */
 body {
-  display: flex;
-  margin: 0;
   background-color: #bababa;
-  /* page background */
   color: #222;
 }
 
 /* Sidebar: 20% width */
 .sidebar {
-  flex: 0 0 20%;
-  /* fixed at 20% */
   background-color: #bababa;
-  padding: 15px;
   box-sizing: border-box;
 }
 
 /* Main content: 80% width */
 .wrapper {
-  flex: 1;
-  /* take remaining space (≈80%) */
   background-color: #bababa;
-  padding: 20px;
   box-sizing: border-box;
-  max-width: none;
-  /* allow it to stretch fully */
 }
-
-
 
 header p {
   margin-bottom: 0.5em;

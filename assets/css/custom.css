@@ -1,13 +1,54 @@
 header {
+  /*Sidebar Section*/
   width: 200px;
-  /* sidebar width */
-  background: white;
-  /* dark background */
-  color: white;
-  /* ??? */
+  /* default is ~270px, so this makes it smaller */
+  padding: 15px;
+  /* tighten space inside (default is larger) */
+  background: #bababa;
+  /* light gray background (optional, can change) */
 }
 
+/* Main Block */
 section {
   margin-left: 220px;
-  /* adjust content to match sidebar */
+  /* should be header width + padding */
+  background: #bababa
+}
+
+/* Fine-tune spacing between elements inside the sidebar */
+header h1 {
+  margin-bottom: 0.5em;
+  /* less gap under your name/title */
+  font-size: 1.5em;
+  /* a little smaller title if you want */
+}
+
+
+
+header p {
+  margin-bottom: 0.5em;
+  /* reduce spacing between paragraphs/description */
+  line-height: 1.2;
+  /* tighten text line spacing */
+}
+
+
+.float-left {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  max-width: 75%;
+  /* shrink responsively */
+  height: auto;
+  /* preserve aspect ratio */
+}
+
+/* On smaller screens, remove float so it stacks above text */
+@media (max-width: 600px) {
+  .float-left {
+    float: none;
+    display: block;
+    margin: 0 auto 10px;
+    /* center above text */
+  }
 }

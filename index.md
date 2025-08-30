@@ -1,14 +1,14 @@
-## Portfolio
-
----
-
 ### About Me
 My name is Jacob Olson. I am a graduate of the University of Montana. My studies concentrated on Computer Science, IT, and Philosophy, but my interest expands beyond to include physics, biology, astronomy, value theory, and epistemology. I gained significant experience in tutoring, analyzing, troubleshooting, and communicating. 
 
 
 ### Work Experience
+---
 #### &emsp; Metagenomic Assembly Researcher
+<p>
+<img src="images/Research Lab.JPG?raw=true" class="float-left">
 I assisted in the construction of a meta-genomic assembler designed for identification and monitoring of SARS-CoV-2 strains. I specialized on investigating modern implementations and practices of competitor metagenomic assemblers (MetaSPAdes, MegaHit, etc etc) for uses in our tool, as well as developing tools to measure performance runtime and effectiveness.
+</p>
 
 #### &emsp; Programming Tutor
 Operated as the head tutor for the core programming courses across both University of Montana as well as Missoula College. While fostering a comfortable and openly communicative environment, I provided assistive learning with fundamental programming concepts, basic data structures, algorithms, and intuition on runtime analysis.

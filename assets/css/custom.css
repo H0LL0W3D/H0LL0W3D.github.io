@@ -23,6 +23,34 @@ header h1 {
   /* a little smaller title if you want */
 }
 
+/* Make the page background gray instead of white */
+body {
+  background-color: #bababa;
+  /* adjust shade to taste */
+  color: #222;
+  /* keep text readable */
+}
+
+/* Sidebar tweaks */
+.sidebar {
+  width: 220px;
+  /* narrower sidebar */
+  background-color: #bababa;
+  /* lighter gray for contrast */
+  padding: 15px;
+}
+
+/* Main content tweaks */
+.wrapper {
+  margin-left: 240px;
+  /* just a little wider than sidebar */
+  max-width: 900px;
+  /* make content area wider */
+  background-color: #bababa;
+  /* match sidebar gray */
+  padding: 20px;
+  box-sizing: border-box;
+}
 
 
 header p {

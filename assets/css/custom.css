@@ -15,14 +15,6 @@ section {
   background: #bababa
 }
 
-/* Fine-tune spacing between elements inside the sidebar */
-header h1 {
-  margin-bottom: 0.5em;
-  /* less gap under your name/title */
-  font-size: 1.5em;
-  /* a little smaller title if you want */
-}
-
 /* Make the whole page a flex container */
 body {
   background-color: #bababa;
@@ -57,14 +49,4 @@ header p {
   /* shrink responsively */
   height: auto;
   /* preserve aspect ratio */
-}
-
-/* On smaller screens, remove float so it stacks above text */
-@media (max-width: 600px) {
-  .float-left {
-    float: none;
-    display: block;
-    margin: 0 auto 10px;
-    /* center above text */
-  }
 }

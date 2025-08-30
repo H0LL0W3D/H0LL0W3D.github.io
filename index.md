@@ -35,21 +35,33 @@ Worked under Global Engagement Office to foster community, education, and opport
 -  Top 09 parents' children ╰( ͡° ͜ʖ ͡° )つ──☆*:・
 -  Top 03 University of Montana students named "Jacob D. Olson"
 
----
 
 ### Current Projects
+---
+[Starcraft II: battle bot "Sisyphus"](https://github.com/H0LL0W3D/SCII_ML_Sisyphus)<br>
+<img src="images/sc2logo.png?raw=true" width="360px" height="auto"><br>
+
+[GameMaker: WardBack]<br>
+<img src="images/WardBack.png" width="220px" height="165px"><br>
+
+[Website: Smash Collective]<br>
+<img src="images/ItemMeleeDisk.gif" width="220px" height="220px"><br>
+
+### Previous Projects
+---
+
+[Genomic Assembly]
+<img src="images/Genomics.jpg?raw=true"/>
+
 
 [Github: Pages](http://github.com/H0LL0W3D/pages)<br>
 <img src="images/pages.png?raw=true">
 
-
 [GitHub: Percolation](http://github.com/H0LL0W3D/Percolation)
 <img src="images/Percolation.png?raw=true">
 
-
 [Github: Taiga](https://github.com/H0LL0W3D/Taiga)
 <img src="images/babayaga.png?raw=true">
-
 
 [Stardew Valley: Crop Optimization]
 <img src="images/StardewLogo.png?raw=true"/>
@@ -63,10 +75,8 @@ Worked under Global Engagement Office to foster community, education, and opport
 [Basic Message Board Application](https://github.com/H0LL0W3D/WebAppProject)
 <img src="images/Cuteness.png?raw=true"/>
 
-[Genomic Assembly]
-<img src="images/Genomics.jpg?raw=true"/>
 
----
+
 
 ### Skills
 [Comprehension]

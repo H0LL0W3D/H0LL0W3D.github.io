@@ -28,24 +28,31 @@ Updated website on University of Montana to inform and reflect information appro
 Worked under Global Engagement Office to foster community, education, and opportunity to students traveling abroad. Used Terra Dotta database to properly reflect these opportunities.
 
 
-[Personal Accomplishments]
--  Top 10 Montana "Smash Brothers: Melee" public ranking (2019-2023)
--  Top 500 America "Diablo 3" seasonal rift ranking (2020)
--  Top 10 Global "Angry Angry Templar" ranking (2018)
--  Top 09 parents' children ╰( ͡° ͜ʖ ͡° )つ──☆*:・
--  Top 03 University of Montana students named "Jacob D. Olson"
-
-
 ### Current Projects
 ---
-[Starcraft II: battle bot "Sisyphus"](https://github.com/H0LL0W3D/SCII_ML_Sisyphus)<br>
-<img src="images/sc2logo.png?raw=true" width="360px" height="auto"><br>
+<br>
 
-[GameMaker: WardBack]<br>
-<img src="images/WardBack.png" width="220px" height="165px"><br>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; text-align: center;">
+  <div>
+    <p><a href="https://github.com/H0LL0W3D/SCII_ML_Sisyphus">
+    Starcraft II: battle bot "Sisyphus"</p>
+    <img src="images/sc2logo.png?raw=true" width="90%"></a>
+  </div>
+  <div>
+    <p>GameMaker: WardBack</p>
+    <img src="images/WardBack.png" width="80%" height="55%">
+  </div>
+  <div>
+    <p>Super Smash Bros. Melee: modding</p>
+    <img src="images/ItemMeleeDisk.gif" width="70%">
+  </div>
+  <div>
+    <p>Legend of Zelda: Twilight Princess Speedrun Routing graphics</p>
+    <img src="images/Twilight Princess Rupee Slide.jpg?raw=true" width="90%">
+  </div>
+</div>
 
-[Website: Smash Collective]<br>
-<img src="images/ItemMeleeDisk.gif" width="220px" height="220px"><br>
+
 
 ### Previous Projects
 ---
@@ -76,7 +83,12 @@ Worked under Global Engagement Office to foster community, education, and opport
 <img src="images/Cuteness.png?raw=true"/>
 
 
-
+[Personal Accomplishments]
+-  Top 10 Montana "Smash Brothers: Melee" public ranking (2019-2023)
+-  Top 500 America "Diablo 3" seasonal rift ranking (2020)
+-  Top 10 Global "Angry Angry Templar" ranking (2018)
+-  Top 09 parents' children ╰( ͡° ͜ʖ ͡° )つ──☆*:・
+-  Top 03 University of Montana students named "Jacob D. Olson"
 
 ### Skills
 [Comprehension]

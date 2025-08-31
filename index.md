@@ -32,11 +32,11 @@ Worked under Global Engagement Office to foster community, education, and opport
 ---
 <br>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; text-align: center;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; text-align: center;">
   <div>
     <p><a href="https://github.com/H0LL0W3D/SCII_ML_Sisyphus">
-    Starcraft II: battle bot "Sisyphus"</p>
-    <img src="images/sc2logo.png?raw=true" width="90%"></a>
+    Starcraft II: battle bot "Sisyphus"
+    <img src="images/sc2logo.png?raw=true" width="90%"></a></p>
   </div>
   <div>
     <p>GameMaker: WardBack</p>
@@ -108,5 +108,5 @@ Worked under Global Engagement Office to foster community, education, and opport
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<p style="font-size:11px">Last Updated 08/30/2025</p>
+<p style="font-size:11px">Last Updated 08/31/2025</p>
 <!-- Remove above link if you don't want to attibute -->

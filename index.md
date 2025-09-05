@@ -1,5 +1,16 @@
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="index.md">Home</a></li>
+      <li><a href="personal_accomplishments.md">Accomplishments</a></li>
+      <li><a href="previous_projects.md">Previous Projects</a></li>
+      <li><a href="current_projects.md">Current Projects</a></li>
+    </ul>
+  </nav>
+
 ### About Me
-My name is Jacob Olson. I am a graduate of the University of Montana. My studies concentrated on Computer Science, IT, and Philosophy, but my interest expands beyond to include physics, biology, astronomy, value theory, and epistemology. I gained significant experience in tutoring, analyzing, troubleshooting, and communicating. 
+<p>
+My name is Jacob Olson. I am a graduate of the University of Montana. My studies concentrated on Computer Science, IT, and Philosophy, but my interest expands beyond to include physics, biology, astronomy, value theory, and epistemology. I gained significant experience in tutoring, analyzing, troubleshooting, and communicating. </p>
 
 
 ### Work Experience
@@ -19,13 +30,19 @@ Operated as the head tutor for the core programming courses across both Universi
 </p>
 
 #### &emsp; Computer Camp Counselor
+<p>
 Assisted young teens in developing an understanding of technology, cybersecurity, and dev ops. These young agents were introduced to hardware tinkering, modular programming, CLI operating, cryptography, networking, and ethical implications of modern technology.
+</p>
 
 #### &emsp; Website Moderator
-Updated website on University of Montana to inform and reflect information appropriately and accurately using Cascade.
+<p>
+Updated website on University of Montana to inform and reflect information appropriately and accurately using Cascade. 
+</p>
 
 #### &emsp; Database Intern
+<p>
 Worked under Global Engagement Office to foster community, education, and opportunity to students traveling abroad. Used Terra Dotta database to properly reflect these opportunities.
+</p>
 
 
 ### Current Projects
@@ -53,43 +70,6 @@ Worked under Global Engagement Office to foster community, education, and opport
 </div>
 
 
-
-### Previous Projects
----
-
-[Genomic Assembly]
-<img src="images/Genomics.jpg?raw=true"/>
-
-
-[Github: Pages](http://github.com/H0LL0W3D/pages)<br>
-<img src="images/pages.png?raw=true">
-
-[GitHub: Percolation](http://github.com/H0LL0W3D/Percolation)
-<img src="images/Percolation.png?raw=true">
-
-[Github: Taiga](https://github.com/H0LL0W3D/Taiga)
-<img src="images/babayaga.png?raw=true">
-
-[Stardew Valley: Crop Optimization]
-<img src="images/StardewLogo.png?raw=true"/>
-
-[Basic Blog Web Application](https://github.com/H0LL0W3D/BlogApp)
-<img src="images/Desktop.jpg?raw=true"/>
-
-[Basic News Application](https://github.com/H0LL0W3D/NewspaperApp)
-<img src="images/Desktop.jpg?raw=true"/>
-
-[Basic Message Board Application](https://github.com/H0LL0W3D/WebAppProject)
-<img src="images/Cuteness.png?raw=true"/>
-
-
-[Personal Accomplishments]
--  Top 10 Montana "Smash Brothers: Melee" public ranking (2019-2023)
--  Top 500 America "Diablo 3" seasonal rift ranking (2020)
--  Top 10 Global "Angry Angry Templar" ranking (2018)
--  Top 09 parents' children ╰( ͡° ͜ʖ ͡° )つ──☆*:・
--  Top 03 University of Montana students named "Jacob D. Olson"
-
 ### Skills
 [Comprehension]
 - C++
@@ -108,5 +88,5 @@ Worked under Global Engagement Office to foster community, education, and opport
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<p style="font-size:11px">Last Updated 08/31/2025</p>
+<p style="font-size:11px">Last Updated 09/05/2025</p>
 <!-- Remove above link if you don't want to attibute -->

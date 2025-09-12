@@ -1,10 +1,10 @@
   <!-- Navigation Bar -->
   <nav>
     <ul>
-      <li><a href="index.md">Home</a></li>
-      <li><a href="personal_accomplishments.md">Accomplishments</a></li>
-      <li><a href="previous_projects.md">Previous Projects</a></li>
-      <li><a href="current_projects.md">Current Projects</a></li>
+      <li><a href="index">Home</a></li>
+      <li><a href="personal_accomplishments">Accomplishments</a></li>
+      <li><a href="previous_projects">Previous Projects</a></li>
+      <li><a href="current_projects">Current Projects</a></li>
     </ul>
   </nav>
 
@@ -88,5 +88,5 @@ Worked under Global Engagement Office to foster community, education, and opport
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<p style="font-size:11px">Last Updated 09/05/2025</p>
+<p style="font-size:11px">Last Updated 09/11/2025</p>
 <!-- Remove above link if you don't want to attibute -->

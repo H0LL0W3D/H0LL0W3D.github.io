@@ -34,7 +34,7 @@ Operated as the head tutor for the core programming courses across both Universi
 
 #### &emsp; Computer Camp Counselor (2021)
 <p>
-<img src="images/GenCyberCamp.jpg?=raw=true" width="35%" class="float-left">
+<img src="images/GenCyberCamp.jpg?=raw=true" width="44%" class="float-left">
 Assisted young teens in developing an understanding of technology, cybersecurity, and dev ops. These young agents were introduced to hardware tinkering, modular programming, CLI operating, cryptography, networking, and ethical implications of modern technology. After spending the full week exploring these topics, they got to do a fun capture the flag as their final challenge. Many rewards and goodies were provided to all of them, including a rasperry pi and associated kit. I am very proud of how each of the kids performed.
 </p>
 

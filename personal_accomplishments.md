@@ -7,12 +7,14 @@
       <li><a href="current_projects">Current Projects</a></li>
     </ul>
   </nav>
+  <br>
+
 
 ### Personal Accomplishments
 ---
 #### Montana "Smash Brothers: Melee" Power Ranking (2019-2023)
 <p>
-<img src="images/cf_ftilt.gif" width="35%" class="float-left">
+<img src="images/cf_ftilt.gif" width="32%" class="float-left">
 Top Performances:<br>
 <a href="https://www.ssbwiki.com/Montana_Power_Rankings" >Montana Power Rankings</a>
 : (2022) - <b>3rd</b>, 2021 - <b>7th</b>

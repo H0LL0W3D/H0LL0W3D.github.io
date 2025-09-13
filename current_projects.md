@@ -7,6 +7,8 @@
       <li><a href="current_projects">Current Projects</a></li>
     </ul>
   </nav>
+  <br>
+
 
 ### Current Projects:
 ---

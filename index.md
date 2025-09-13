@@ -9,8 +9,9 @@
   </nav>
 
 ### About Me
+---
 <p>
-<img src="images/Wedding_Photo.JPG?raw=true" width="25%" class="float-left">
+<img src="images/FallBrawl.jpg?raw=true" width="40%" class="float-left">
 My name is Jacob Olson. I am a graduate of the University of Montana. My studies concentrated on Computer Science, IT, and Philosophy, but my interest expands beyond to include physics, biology, astronomy, value theory, and epistemology. I gained significant experience in tutoring, analyzing, troubleshooting, and communicating. </p>
 
 

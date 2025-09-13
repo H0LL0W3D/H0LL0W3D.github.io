@@ -1,19 +1,26 @@
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="index">Home</a></li>
+      <li><a href="personal_accomplishments">Accomplishments</a></li>
+      <li><a href="previous_projects">Previous Projects</a></li>
+      <li><a href="current_projects">Current Projects</a></li>
+    </ul>
+  </nav>
+
 ### Personal Accomplishments
-
 ---
-
 #### Montana "Smash Brothers: Melee" Power Ranking (2019-2023)
 <p>
-<img src="images/cf_ftilt.gif" width="30%" class="float-left">
-<br>Top Performances:<br>
+<img src="images/cf_ftilt.gif" width="35%" class="float-left">
+Top Performances:<br>
 <a href="https://www.ssbwiki.com/Montana_Power_Rankings" >Montana Power Rankings</a>
-: (2022) - <b>3rd</b>, 2021 - <b>7th</b>, 2018 + 2019 - <b>10th</b>
+: (2022) - <b>3rd</b>, 2021 - <b>7th</b>
 <br>
 <a href="https://www.start.gg/tournament/fall-brawl-2023/events/melee-singles/brackets/1496188/2257612/standings" >Fall Brawl 2023</a>
-: <b>8th</b> in singles, <b>3rd</b> in doubles, <b>5th</b> in Project+
-<br>
+: <b>8th</b> in singles, <b>3rd</b> in doubles
 <a href="https://www.youtube.com/watch?v=1wN3INZSOkk&">Turtle Tuesday - David's Birthday Bash</a>
-: <b>1st</b> in a in-house fun bracket
+: <b>1st</b>
 <br>
 <a href="https://www.youtube.com/watch?v=9cbKVsoK1B8&t=18650s">The Sweatshop 28</a>
 : my first <b>1st</b> place in 2022

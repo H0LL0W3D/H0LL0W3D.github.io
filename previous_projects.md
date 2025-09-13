@@ -1,3 +1,13 @@
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="index">Home</a></li>
+      <li><a href="personal_accomplishments">Accomplishments</a></li>
+      <li><a href="previous_projects">Previous Projects</a></li>
+      <li><a href="current_projects">Current Projects</a></li>
+    </ul>
+  </nav>
+
 ### Previous Projects
 ---
 

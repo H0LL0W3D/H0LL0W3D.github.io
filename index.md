@@ -71,5 +71,5 @@ Worked under Global Engagement Office to foster community, education, and opport
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<p style="font-size:11px">Last Updated 09/12/2025</p>
+<p style="font-size:11px">Last Updated 09/13/2025</p>
 <!-- Remove above link if you don't want to attibute -->

@@ -18,9 +18,10 @@
 Top Performances:<br>
 <a href="https://www.ssbwiki.com/Montana_Power_Rankings" >Montana Power Rankings</a>
 : (2022) - <b>3rd</b>, 2021 - <b>7th</b>
-<br><br>
+<br>
 <a href="https://www.start.gg/tournament/fall-brawl-2023/events/melee-singles/brackets/1496188/2257612/standings" >Fall Brawl 2023</a>
 : <b>8th</b> in singles, <b>3rd</b> in doubles
+<br>
 <a href="https://www.youtube.com/watch?v=1wN3INZSOkk&">Turtle Tuesday - David's Birthday Bash</a>
 : <b>1st</b>
 <br>
